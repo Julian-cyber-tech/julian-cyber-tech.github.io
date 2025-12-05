@@ -5,14 +5,25 @@ body
     max-width: 800px;
     margin:auto;
     background-color:aqua;
-    background-image:url(mediaback.jpg);
+    background-image:url(socialmedia.jpg);
 }
 
 p
 
 {
-    color:red;
+    color:white;
     font-size:x-large;
     font-family:'Times New Roman', Times, serif;
     
 }
+h1
+{
+    color: white;
+}
+
+div
+{
+    background-color:black;
+    padding: 20px;
+}
+
